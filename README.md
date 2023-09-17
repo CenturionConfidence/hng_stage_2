@@ -1,6 +1,7 @@
 # hng_stage_2
 
-A new Flutter project.
+Here is a link to the completed task for stage 2.
+https://appetize.io/app/lpb7scsn2qdxtxa64iiglhvqqe
 
 ## Getting Started
 
